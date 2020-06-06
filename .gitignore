@@ -75,3 +75,4 @@ $RECYCLE.BIN/
 .idea
 .vscode
 .env
+node_modules
